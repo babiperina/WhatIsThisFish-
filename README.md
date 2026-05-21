@@ -8,6 +8,12 @@ A browser-based fish identifier using a Teachable Machine image model and Tensor
 
 Point your camera at a fish and the model predicts which species it is in real time.
 
+## Built with
+
+- **[Kaggle](https://www.kaggle.com)** — used to find and prepare the fish image dataset for training
+- **[Teachable Machine](https://teachablemachine.withgoogle.com)** — used to train the image classification model, no code required
+- **[TensorFlow.js](https://www.tensorflow.org/js)** — runs the trained model directly in the browser
+
 Model hosted at: `https://teachablemachine.withgoogle.com/models/fBz1q_mLZf/`
 
 ## How to run
