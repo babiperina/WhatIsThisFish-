@@ -1,5 +1,7 @@
 # What Is My Fish?
 
+![App screenshot](screenshot.png)
+
 A browser-based fish identifier using a Teachable Machine image model and TensorFlow.js.
 
 ## How it works
